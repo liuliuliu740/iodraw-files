@@ -571,7 +571,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-200" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-137">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="150" y="730" as="sourcePoint" />
-            <mxPoint x="160" y="780" as="targetPoint" />
+            <mxPoint x="182" y="770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
