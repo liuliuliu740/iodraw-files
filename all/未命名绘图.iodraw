@@ -334,6 +334,9 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-142" value="找团长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="648" y="677" width="108" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-143" target="kw2qwoaRS2V4HoaG9dMN-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-143" value="附近团长地图" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="624" y="776" width="156" height="49" as="geometry" />
         </mxCell>
@@ -567,6 +570,9 @@
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-201" value="生长记录查询" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="421" y="870" width="150" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-205" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="662" y="899.5" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
