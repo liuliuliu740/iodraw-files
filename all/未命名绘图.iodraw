@@ -325,7 +325,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-140" value="产品溯源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="434" y="677" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-141" value="生产记录查询" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-141" value="实时生长状态" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="418" y="776" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-142" value="找团长" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -559,13 +559,6 @@
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-187" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-158" target="kw2qwoaRS2V4HoaG9dMN-159">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-200" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#82b366;fontColor=#393C56;fillColor=#d5e8d4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-137">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="150" y="730" as="sourcePoint" />
-            <mxPoint x="182" y="770" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
