@@ -319,7 +319,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-138" value="360°全景" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="776" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-139" value="生长日记时间轴" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-139" value="生长日记" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="196" y="776" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-140" value="产品溯源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
