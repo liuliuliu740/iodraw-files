@@ -313,14 +313,16 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-136" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2544" y="579" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="282.0000000000002" y="776" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-137" value="农场实景展示" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="104" y="677" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-138" value="360°全景" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="776" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-139" value="生长日记" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="196" y="776" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-140" value="产品溯源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="434" y="677" width="124" height="49" as="geometry" />
@@ -429,11 +431,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-167" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-137" target="kw2qwoaRS2V4HoaG9dMN-139">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-167" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-137">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="282" y="751" />
             </Array>
+            <mxPoint x="281.9999999999998" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-168" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-132" target="kw2qwoaRS2V4HoaG9dMN-140">
