@@ -726,8 +726,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-311" value="风险预算" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="414" width="156" height="49" as="geometry" />
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-311" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="400" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
