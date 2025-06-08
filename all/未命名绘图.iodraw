@@ -738,8 +738,14 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-313" value="中风险&#xa;农户提醒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2060" y="390" width="156" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-316" target="kw2qwoaRS2V4HoaG9dMN-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-316" value="高风险&#xa;平台接入" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2320" y="380" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-318" value="处置方案" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="509" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
