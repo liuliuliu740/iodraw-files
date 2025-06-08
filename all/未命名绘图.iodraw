@@ -755,7 +755,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-331" value="农户自行提交商品信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2656" y="217" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-333" value="农户自行提交商品信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-333" value="证明上传" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2656" y="346" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
