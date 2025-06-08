@@ -79,9 +79,6 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-95" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2076" y="217" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-96" value="库存阈值设置" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="316" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-97" value="价格警报设置" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2076" y="316" width="156" height="49" as="geometry" />
         </mxCell>
@@ -247,13 +244,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2138" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-95" target="kw2qwoaRS2V4HoaG9dMN-96">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1948" y="291" />
             </Array>
           </mxGeometry>
         </mxCell>
