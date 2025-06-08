@@ -755,8 +755,14 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-331" value="农户自行提交商品信息" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2656" y="217" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-336" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-333" target="kw2qwoaRS2V4HoaG9dMN-335">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-333" value="证明上传" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="2656" y="346" width="124" height="49" as="geometry" />
+          <mxGeometry x="2656" y="300" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-335" value="审核" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2656" y="475" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
