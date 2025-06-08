@@ -82,6 +82,9 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-312" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-97" target="kw2qwoaRS2V4HoaG9dMN-311">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-314" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-97" target="kw2qwoaRS2V4HoaG9dMN-313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-97" value="风险预算" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2060" y="316" width="156" height="49" as="geometry" />
         </mxCell>
@@ -728,6 +731,9 @@
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-311" value="低风险&#xa;常规检测" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="1850" y="400" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-313" value="中风险&#xa;农户提醒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="400" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
