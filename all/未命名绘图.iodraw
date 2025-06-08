@@ -738,7 +738,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-313" value="中风险&#xa;农户提醒" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2060" y="390" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-316" value="风险预算" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-316" value="高风险&#xa;平台接入" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2320" y="380" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
