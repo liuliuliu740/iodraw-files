@@ -753,8 +753,14 @@
         <mxCell id="jnPB3_APMpsAE3gyhWbk-166" value="&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&quot;white-space:pre-wrap;&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="10" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6mgGfR46xyJVxpBXNqR_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6mgGfR46xyJVxpBXNqR_-0" target="6mgGfR46xyJVxpBXNqR_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6mgGfR46xyJVxpBXNqR_-0" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mgGfR46xyJVxpBXNqR_-1" value="信息填写" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
