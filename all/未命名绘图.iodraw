@@ -91,7 +91,7 @@
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-99" value="生成求助海报" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2282" y="316" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="kw2qwoaRS2V4HoaG9dMN-100" value="一键报名短视频大赛" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="kw2qwoaRS2V4HoaG9dMN-100" value="键报名短视频大赛" style="whiteSpace=wrap;strokeWidth=2;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="2488" y="316" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="kw2qwoaRS2V4HoaG9dMN-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.55;entryX=0.5;entryY=-0.01;rounded=0;fillColor=#F2CC8F;strokeColor=#E07A5F;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="kw2qwoaRS2V4HoaG9dMN-70" target="kw2qwoaRS2V4HoaG9dMN-71">
