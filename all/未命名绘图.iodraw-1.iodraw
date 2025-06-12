@@ -22,13 +22,8 @@
         <mxCell id="M03EtXy5YSU8ZBA7xO_y-18" value="进入封面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M03EtXy5YSU8ZBA7xO_y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M03EtXy5YSU8ZBA7xO_y-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M03EtXy5YSU8ZBA7xO_y-21" value="首页&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="70" width="100" height="50" as="geometry" />
+          <mxGeometry x="160" y="50" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M03EtXy5YSU8ZBA7xO_y-25" value="z" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M03EtXy5YSU8ZBA7xO_y-18" target="M03EtXy5YSU8ZBA7xO_y-23">
           <mxGeometry relative="1" as="geometry">
@@ -55,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M03EtXy5YSU8ZBA7xO_y-23" value="诊断跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="160" y="190" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
