@@ -31,7 +31,7 @@
         <mxCell id="M03EtXy5YSU8ZBA7xO_y-23" value="诊断跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M03EtXy5YSU8ZBA7xO_y-27" value="进入封面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M03EtXy5YSU8ZBA7xO_y-27" value="诊后管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="420" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
